@@ -2,8 +2,7 @@
 Servidor iterativo y cliente de protocolo DAYTIME utilizando sockets UDP escritos en C. Proyecto desarrollado con fines de aprendizaje en Arquitectura de Redes y Servicios, asignatura de Ingeniería de Software en la Universidad de Valladolid
 
 ## Requisitos
-- [Docker](https://www.docker.com/) running on your machine.
-
+- [Docker](https://www.docker.com/) 
 ## Desarrollo
 
 Primero, configure el entorno:
