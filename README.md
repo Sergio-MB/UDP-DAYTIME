@@ -1,4 +1,4 @@
-# UDP-Client
+# UDP-DAYTIME
 Servidor iterativo y cliente de protocolo DAYTIME utilizando sockets UDP escritos en C. Proyecto desarrollado con fines de aprendizaje en Arquitectura de Redes y Servicios, asignatura de Ingeniería de Software en la Universidad de Valladolid
 
 ## Requisitos
@@ -8,8 +8,8 @@ Servidor iterativo y cliente de protocolo DAYTIME utilizando sockets UDP escrito
 
 Primero, configure el entorno:
 ```bash
-git clone https://github.com/Sergio-MB/UDP-Client # Clonar repositorio
-cd UDP-Client # Accedemos a dicho repositorio
+git clone https://github.com/Sergio-MB/UDP-DAYTIME # Clonar repositorio
+cd UDP-DAYTIME # Accedemos a dicho repositorio
 docker run --name=ubuntu-daytime-udp -it -v $(PWD):/home ubuntu # Run Ubuntu container sharing repository folder
 
 # Dentro del contenedor. Obtenga las herramientas del compilador de C
