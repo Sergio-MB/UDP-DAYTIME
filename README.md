@@ -25,7 +25,7 @@ docker exec -it ubuntu-daytime-udp bash
 
 Compilar cliente y servidor:
 ```bash
-# Inside the container
+# Dentro del contenedor
 cd /home
 gcc -Wall -o client.out daytime-udp-client-Munumer-Blazquez.c
 gcc -Wall -o server.out daytime-udp-server-Munumer-Blazquez.c
